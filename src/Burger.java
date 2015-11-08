@@ -6,5 +6,4 @@ abstract class Burger implements IFood{
 		// TODO Auto-generated method stub
 		
 	}
-	
 }

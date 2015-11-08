@@ -6,6 +6,4 @@ abstract class Chicken implements IFood{
 		// TODO Auto-generated method stub
 		
 	}
-	
-
 }
